@@ -1,0 +1,22 @@
+{
+  "features": {
+    "highscores": 1,
+    "gameanalytics": 1
+  },
+  "game_i18n": {
+    "default": {
+      "filename.png": "fg_i18n/{lang}/images/filename.png"
+    }
+  },
+  "game_info": {
+    "client_version": "1.0.0",
+    "forced_mode": {
+      "override": {
+        "time": {
+          "description": "Game round duration in seconds (0=unlimited)",
+          "type": "number"
+        }
+      }
+    }
+  }
+}
